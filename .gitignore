@@ -1,0 +1,24 @@
+.tmp/
+.env
+credentials.json
+token.json
+roadmap.md
+Agent.md
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+env/
+
+# IDEs
+.vscode/
+.idea/
